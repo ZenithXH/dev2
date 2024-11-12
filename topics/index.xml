@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ZenithXH</title>
+    <link>https://zenithxh.github.io/dev2/topics/</link>
+    <description>Recent content in Tags on ZenithXH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ZenithXH.126.com (CaT)</managingEditor>
+    <webMaster>ZenithXH.126.com (CaT)</webMaster>
+    <copyright>The website is in the maintenance phase🪽</copyright>
+    <atom:link href="https://zenithxh.github.io/dev2/topics/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
