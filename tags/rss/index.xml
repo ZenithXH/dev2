@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS on 子涵视界</title>
+    <link>https://zenithxh.github.io/dev2/tags/rss/</link>
+    <description>Recent content in RSS on 子涵视界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ZenithXH.126.com (CaT)</managingEditor>
+    <webMaster>ZenithXH.126.com (CaT)</webMaster>
+    <copyright>2024 · 网站处于开发阶段🫡</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zenithxh.github.io/dev2/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>连接未来！支持RSS订阅与Follow认证</title>
+      <link>https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (CaT)</author>
+      <guid>https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

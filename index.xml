@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>子涵视界ZenithXH on 子涵视界</title>
+    <link>https://zenithxh.github.io/dev2/</link>
+    <description>Recent content in 子涵视界ZenithXH on 子涵视界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ZenithXH.126.com (CaT)</managingEditor>
+    <webMaster>ZenithXH.126.com (CaT)</webMaster>
+    <copyright>2024 · 网站处于开发阶段🫡</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zenithxh.github.io/dev2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>连接未来！支持RSS订阅与Follow认证</title>
+      <link>https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (CaT)</author>
+      <guid>https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/dev2/posts/%E8%BF%9E%E6%8E%A5%E6%9C%AA%E6%9D%A5%E6%94%AF%E6%8C%81rss%E8%AE%A2%E9%98%85%E4%B8%8Efollow%E8%AE%A4%E8%AF%81/featured.svg" />
+    </item>
+    
+    <item>
+      <title>MD文件的基本语法</title>
+      <link>https://zenithxh.github.io/dev2/posts/md%E6%96%87%E4%BB%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (CaT)</author>
+      <guid>https://zenithxh.github.io/dev2/posts/md%E6%96%87%E4%BB%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/dev2/posts/md%E6%96%87%E4%BB%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Hugo结合Blowfish构建个人博客</title>
+      <link>https://zenithxh.github.io/dev2/posts/hugo%E7%BB%93%E5%90%88blowfish%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (CaT)</author>
+      <guid>https://zenithxh.github.io/dev2/posts/hugo%E7%BB%93%E5%90%88blowfish%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/dev2/posts/hugo%E7%BB%93%E5%90%88blowfish%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/featured.svg" />
+    </item>
+    
+    <item>
+      <title>施工中</title>
+      <link>https://zenithxh.github.io/dev2/tool/test/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (CaT)</author>
+      <guid>https://zenithxh.github.io/dev2/tool/test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/dev2/tool/test/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
